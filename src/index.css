@@ -1,4 +1,7 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +13,80 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+
+@layer base {
+    body {
+        @apply font-[Raleway];
+    }
+    li {
+        @apply px-4;
+        @apply cursor-pointer
+    }
+}
+
+@layer utilities {
+
+  .clip-avarta {
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    background-color: #c7953f;
+    width: 40%;
+    height: 84%;
+    position: absolute; 
+  }
+
+}
+
+
+
+.link-underline {
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent), linear-gradient(#c7953f, #c7953f);
+  background-size: 0 3px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .5s ease-in-out;
+}
+
+.link-underline:hover {
+  background-size: 100% 3px;
+  background-position: 0 100%;
+}
+
+.project1{
+  background-image: url(./assets/opensourcecamera.png);
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.project1:hover{
+  background-color: #edd812;
+  background-image: linear-gradient(315deg, #edd812 0%, #766a65 74%);
+}
+
+.project2{
+  background-image: url(./assets/spacehunt.png);
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.project2:hover{
+  background-color: #edd812;
+  background-image: linear-gradient(315deg, #edd812 0%, #766a65 74%);
+}
+
+.project3{
+  background-image: url(./assets/cellaborate.png);
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.project3:hover{
+  background-color: #edd812;
+  background-image: linear-gradient(315deg, #edd812 0%, #766a65 74%);
 }
