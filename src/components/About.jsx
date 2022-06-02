@@ -6,14 +6,14 @@ import {Link} from 'react-scroll'
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#2e2e35]'>
+    <div name='about' className='w-full py-14 bg-[#2e2e35]'>
     {/* Container */}
     <div className='max-w-[1024px] mx-auto px-8 flex flex-col justify-center h-full'>
-      <div className='flex items-start relative justify-center'>
+      <div className='flex items-start relative '>
         <img className='z-10 hidden md:inline object-cover mt-4 w-50 h-60 sm:my-10 mx-auto items-center position-absolute' src={MyPic} alt="My avarta"/>
         <img className='z-10 w-20 h-20 mt-14 pd-12 md:hidden inline object-cover mx-auto items-center ' src={MyPic} alt="My logo"/>
-        <div className='clip-avarta md:hidden flex flex-wrap justify-center mr-15 mt-4 '></div> 
-        <div className='clip-avarta hidden md:flex flex-wrap justify-center mr-14 '></div>    
+        <div className='clip-avarta md:hidden flex flex-wrap justify-center mt-4 ml-14'></div> 
+        <div className='clip-avarta hidden md:flex md:flex-wrap md:justify-center'></div>    
       </div>
       <p className='text-[#c7953f] text-xl'>Hi, my name is</p>
       <h1 className='text-3xl sm:text-5xl font-bold text-white'>

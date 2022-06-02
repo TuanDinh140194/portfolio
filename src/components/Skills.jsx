@@ -11,7 +11,7 @@ import android from '../assets/android.png'
 
 export const Skills = () => {
   return (
-    <div name='skills' className='bg-[#34343b] text-white w-full md:h-screen py-14'>
+    <div name='skills' className='bg-[#34343b] text-white w-full py-14'>
         <div className='mx-auto w-full h-full p-5 flex flex-col justify-center item-center max-w-[1024px]'>
             <div>
                 <p className='font-bold text-5xl animate-bounce'>
