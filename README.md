@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with My Portfolio React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is my Portfolio React App. I have use React and Tailwind CSS for this project. This project include Top Nav Bar
+for the navigation to particular section in the web page. The side bar on the left is the link to my social media as well as my resume and my github page. This website is the single-page website with different sections on the page.
 
-## Available Scripts
+First, the About section is for introduce me, the Skills section is show all of my technologies that I have experience. Third, the project section is all of my current projects. Finally, the contact form is used to contact to me for work. The users can input message and it will send directly to my email. I have used the https://app.getform.io/ third party to link my contact form with my email. 
+
+## Run local
+### Available Scripts 
 
 In the project directory, you can run:
 
@@ -68,3 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Run in Website and Mobile
+
+This portfolio website is published and deployed. You can go to this link https://tuandinh140194.github.io/portfolio/ to run my website on web as well as on mobile phone.
+
+## Outside Source
+
+This project follow the instruction for create the structure of React at: [React Portfolio Website](https://www.youtube.com/watch?v=hQjlM-8C4Ps&t=1353s)
+
+Create the clip-path at: https://bennettfeely.com/clippy/
+
+Contact form third company: https://app.getform.io/
+
+Tailwind reference at: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/navbars
