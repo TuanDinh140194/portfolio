@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.232da8ab.css",
-    "main.js": "/portfolio/static/js/main.ca6ccb09.js",
-    "static/media/opensourcecamera.png": "/portfolio/static/media/opensourcecamera.7be9e7ffb54ecbe5c0b3.png",
+    "main.css": "/portfolio/static/css/main.be4da153.css",
+    "main.js": "/portfolio/static/js/main.3a5e6b0f.js",
+    "static/media/opensourcecamera.png": "/portfolio/static/media/opensourcecamera.6a69f42dea161c2aece2.png",
     "static/media/cellaborate.png": "/portfolio/static/media/cellaborate.30b8ac1265497d8ad55c.png",
     "static/media/MyPic2.png": "/portfolio/static/media/MyPic2.aef631d9ebe6dbec0668.png",
     "static/media/myPic.jpg": "/portfolio/static/media/myPic.6f05b99eb4c627a843fb.jpg",
@@ -16,14 +16,13 @@
     "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/js.png": "/portfolio/static/media/js.8618298aa7a3f221cfc1.png",
     "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/Vietnam.png": "/portfolio/static/media/Vietnam.83720201e55edabf9fc9.png",
     "static/media/c++.png": "/portfolio/static/media/c++.d7a72328ffe7d955a33e.png",
     "index.html": "/portfolio/index.html",
-    "main.232da8ab.css.map": "/portfolio/static/css/main.232da8ab.css.map",
-    "main.ca6ccb09.js.map": "/portfolio/static/js/main.ca6ccb09.js.map"
+    "main.be4da153.css.map": "/portfolio/static/css/main.be4da153.css.map",
+    "main.3a5e6b0f.js.map": "/portfolio/static/js/main.3a5e6b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.232da8ab.css",
-    "static/js/main.ca6ccb09.js"
+    "static/css/main.be4da153.css",
+    "static/js/main.3a5e6b0f.js"
   ]
 }
