@@ -22,7 +22,7 @@ const Projects = () => {
                             Open Source Camera Application
                         </span>
                         <div className='pt-7 text-center'>
-                            <a  href='https://opensourcecamera.netlify.app/'
+                            <a  href='https://securitycameracapstone.netlify.app'
                                 target="_blank" rel="noreferrer">
                                 <button className='px-5 py-4 m-5 text-center rounded-lg  text-lg font-bold text-black bg-white'>Demo</button>
                             </a>

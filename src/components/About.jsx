@@ -24,7 +24,7 @@ const About = () => {
         <b className='text-[#c7953f]'>.</b>
       </h2>
       <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        I'm recently graduate from Portland State University with the BS. in Computer Science. I'm have the
+        I'm recently graduated from Portland State University with the BS. in Computer Science. I'm have the
         experience in web developer such as fond-end, full-stack. I also done some projects in my career and hope
         to expand more my skills in Computer Science. In my free time, I often try to learn more about new language as
         well as do some sports. If you think my skills are suitable to your project or your company, feel free to contact me !
