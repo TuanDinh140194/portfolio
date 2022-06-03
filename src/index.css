@@ -31,10 +31,11 @@ code {
 
   .clip-avarta {
     clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
-    background-image: url(./assets/Vietnam.png);
+    /* background-image: url(./assets/Vietnam.png); */
     background-size: contain;
     background-repeat: no-repeat;
-    background-color: #db2017;
+    /* background-color: #db2017; */
+    background-color: #c7953f;
     width: 40%;
     height: 84%;
     position: absolute; 
