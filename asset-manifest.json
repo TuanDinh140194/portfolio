@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.be4da153.css",
-    "main.js": "/portfolio/static/js/main.3a5e6b0f.js",
+    "main.js": "/portfolio/static/js/main.757946ae.js",
     "static/media/opensourcecamera.png": "/portfolio/static/media/opensourcecamera.6a69f42dea161c2aece2.png",
     "static/media/cellaborate.png": "/portfolio/static/media/cellaborate.30b8ac1265497d8ad55c.png",
     "static/media/MyPic2.png": "/portfolio/static/media/MyPic2.aef631d9ebe6dbec0668.png",
     "static/media/myPic.jpg": "/portfolio/static/media/myPic.6f05b99eb4c627a843fb.jpg",
     "static/media/visual.png": "/portfolio/static/media/visual.646e6af675679fc4fca3.png",
-    "static/media/resume.png": "/portfolio/static/media/resume.59ef8d96f1486b7db0e1.png",
+    "static/media/resume.png": "/portfolio/static/media/resume.5286bc2ce96486d619fe.png",
     "static/media/android.png": "/portfolio/static/media/android.e774b45c94df8ef58563.png",
     "static/media/spacehunt.png": "/portfolio/static/media/spacehunt.9b1dac850259d16191b2.png",
     "static/media/css.png": "/portfolio/static/media/css.976d7e251934425a001d.png",
@@ -19,10 +19,10 @@
     "static/media/c++.png": "/portfolio/static/media/c++.d7a72328ffe7d955a33e.png",
     "index.html": "/portfolio/index.html",
     "main.be4da153.css.map": "/portfolio/static/css/main.be4da153.css.map",
-    "main.3a5e6b0f.js.map": "/portfolio/static/js/main.3a5e6b0f.js.map"
+    "main.757946ae.js.map": "/portfolio/static/js/main.757946ae.js.map"
   },
   "entrypoints": [
     "static/css/main.be4da153.css",
-    "static/js/main.3a5e6b0f.js"
+    "static/js/main.757946ae.js"
   ]
 }
