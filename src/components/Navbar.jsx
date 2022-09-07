@@ -137,7 +137,7 @@ const Navbar = () => {
                             </button>
                             <button
                                 className="ml-2 text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#c7953f] hover:border-[#c7953f]"
-                                onClick={() => downloadClick('https://drive.google.com/file/d/1o2boVPVGERVntgAE3nG8fq2lJWIk7_cP/view?usp=sharing')}
+                                onClick={() => downloadClick('https://drive.google.com/file/d/1PlpoA-9lzvyu6nLi5vZob09wjM8bgmYg/view?usp=sharing')}
                             >
                               View
                               <span>
@@ -154,7 +154,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-800'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/'
+              href='https://www.linkedin.com/in/tuan-dinh-65610824b/'
               target="_blank" rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
